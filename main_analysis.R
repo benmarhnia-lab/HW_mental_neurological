@@ -9,7 +9,6 @@
 library(dplyr)
 library(lubridate)
 library(gnm)
-library(tictoc)
 
 
 ### 1. Get stratum
