@@ -4,7 +4,7 @@
 
 - Yiqun Ma, PhD; Kristen Guirguis, PhD; Caitlin G. Jones-Ngo, PhD; Anais Teyton, MPH; Hale Brown, MAS; Fiona Charlson, PhD; Alexander Gershunov, PhD; Miriam E. Marlier, PhD; Tarik Benmarhnia, PhD
 
-## Corresponding author:
+## Corresponding author
 
 - Yiqun Ma, PhD, UC San Diego; email: yiqunma@ucsd.edu
 
